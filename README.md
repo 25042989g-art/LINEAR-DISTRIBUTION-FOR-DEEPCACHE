@@ -4,3 +4,5 @@ This is a course project exploring non-uniform caching strategies for accelerati
 We show that this simple deterministic schedule significantly improves reconstruction fidelity (PSNR, CLIP image similarity) over uniform DeepCache, at identical wall-clock cost, while preserving prompt alignment (CLIP score).
 
 The complete dataset is too large to host on GitHub. Therefore, we only provide the experimental subset (prompts_LITTLE1.csv) used for all reported results. The original full dataset is available at:(https://www.kaggle.com/datasets/tanreinama/900k-diffusion-prompts-dataset/data)
+
+The introduction video is too large for GitHub. Please view it via Colab:       (https://drive.google.com/file/d/1QULfzawal1qYHgorXTCSQQfVpjtrAHy-/view)
