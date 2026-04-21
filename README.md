@@ -5,4 +5,4 @@ We show that this simple deterministic schedule significantly improves reconstru
 
 The complete dataset is too large to host on GitHub. Therefore, we only provide the experimental subset (prompts_LITTLE1.csv) used for all reported results. The original full dataset is available at:(https://www.kaggle.com/datasets/tanreinama/900k-diffusion-prompts-dataset/data)
 
-The introduction video is too large for GitHub. Please view it via Colab:       (https://drive.google.com/file/d/1QULfzawal1qYHgorXTCSQQfVpjtrAHy-/view)
+The introduction video is also too large for GitHub. Please view it via Colab:       (https://drive.google.com/file/d/1QULfzawal1qYHgorXTCSQQfVpjtrAHy-/view)
